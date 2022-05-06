@@ -1,5 +1,4 @@
 ### Hi, my name is Vania
-I’m currently learning [programming](https://github.com/ZISRF/Programming#my-laboratory-works-on-programming-at-itmo-university)
 
 <!--
 **ZISRF/ZISRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
